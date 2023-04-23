@@ -13,7 +13,7 @@ const AboutUs = () => {
                     It can personalize learning, increase student engagement, provide real-time feedback, and improve the overall quality of education.
                     </p>
 
-                    <h3>Maderian</h3>
+                    <h3>Madan</h3>
 
                     <p>
                     在人工智能的幫助下，一種簡單高效的教育技術可以增強學生和教師的教學和學習體驗。 
