@@ -13,7 +13,7 @@ const AboutUs = () => {
                     It can personalize learning, increase student engagement, provide real-time feedback, and improve the overall quality of education.
                     </p>
 
-                    <h3>Madan</h3>
+                    <h3>Mandarin</h3>
 
                     <p>
                     在人工智能的幫助下，一種簡單高效的教育技術可以增強學生和教師的教學和學習體驗。 
@@ -27,7 +27,7 @@ const AboutUs = () => {
                     Puede personalizar el aprendizaje, aumentar la participación de los estudiantes, proporcionar comentarios en tiempo real y mejorar la calidad general de la educación.
                     </p>
 
-                    <h3>Japaness</h3>
+                    <h3>Japanses</h3>
 
                     <p>
                     AI の助けを借りた簡単で効率的な教育手法は、生徒と教師の両方の教育と学習の経験を向上させることができます。 
