@@ -1,5 +1,4 @@
 import React from 'react'
-import { Link } from "react-router-dom"
 import './Header.css'
 
 const Header = () => {
@@ -7,9 +6,8 @@ const Header = () => {
         <React.Fragment>
             <header className="bg-image">
                 <div className="bg-container">
-                    <h1>Awesome Title</h1>
-                    <h2>Placeholder for home page header</h2>
-                    <Link to="/">Book Now!</Link>
+                    {/* <h1>Join Us</h1>
+                    <h2>Make education contents has never been easier with E^3</h2> */}
                 </div>
             </header>
         </React.Fragment>

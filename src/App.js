@@ -7,7 +7,7 @@ import {
 import Layout from './layout/Layout'
 import Home from './components/pages/Home'
 import AboutUs from './components/pages/AboutUs'
-import ContactUs from './components/pages/ContactUs'
+import SignupLogin from './components/pages/Sign up or Log in'
 
 import './App.css';
 
@@ -18,7 +18,7 @@ function App() {
         <Layout>
           <Switch>
             <Route path={'/AboutUs'} component={AboutUs}></Route>
-            <Route path={'/ContactUs'} component={ContactUs}></Route>
+            <Route path={'/Sign up or Log in'} component={SignupLogin}></Route>
             <Route path={'/'} component={Home}></Route>
           </Switch>
         </Layout>
